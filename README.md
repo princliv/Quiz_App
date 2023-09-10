@@ -1,6 +1,8 @@
+<img align="right" alt="Coding" width="400" src="https://github.com/princliv/Quiz_App/assets/133310478/6a37221d-fa9f-4d90-878d-eee97e15f53e">
+
 # Quiz_App
  Quizzy App is an Android quiz application developed using JAVA that challenges users with a series of questions. Users select answers and receive immediate feedback on correctness. The app calculates the score and  offering an option to restart the quiz.
-![quizzy_up](https://github.com/princliv/Quiz_App/assets/133310478/6a37221d-fa9f-4d90-878d-eee97e15f53e)
+<!--![quizzy_up](https://github.com/princliv/Quiz_App/assets/133310478/6a37221d-fa9f-4d90-878d-eee97e15f53e)-->
 
 ## Table of Contents
 
