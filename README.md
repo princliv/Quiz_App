@@ -34,7 +34,7 @@ To run this app on your Android device or emulator, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/princliv/quiz-app.git
 2. Open the project in Android Studio.
 3. Connect your Android device or start an emulator
 4. Build and run the app from Android Studio.
